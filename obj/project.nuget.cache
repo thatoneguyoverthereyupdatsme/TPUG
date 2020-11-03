@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Enwss3YnKuKz5RzHXuNlOukOUg676aROLxLRMfCyzmQ9gv7dLbF9iACFvO16LuOTta4WeV3WQQwDL4w/TH9xew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\apwhe\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\TPUG\\TPUG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apwhe\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

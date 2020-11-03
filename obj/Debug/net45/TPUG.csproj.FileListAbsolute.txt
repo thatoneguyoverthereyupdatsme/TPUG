@@ -1,0 +1,4 @@
+C:\Users\apwhe\OneDrive\Documents\My Games\Terraria\ModLoader\Mod Sources\TPUG\obj\Debug\net45\TPUG.csprojAssemblyReference.cache
+C:\Users\apwhe\OneDrive\Documents\My Games\Terraria\ModLoader\Mod Sources\TPUG\obj\Debug\net45\TPUG.AssemblyInfoInputs.cache
+C:\Users\apwhe\OneDrive\Documents\My Games\Terraria\ModLoader\Mod Sources\TPUG\obj\Debug\net45\TPUG.AssemblyInfo.cs
+C:\Users\apwhe\OneDrive\Documents\My Games\Terraria\ModLoader\Mod Sources\TPUG\obj\Debug\net45\TPUG.csproj.CoreCompileInputs.cache
