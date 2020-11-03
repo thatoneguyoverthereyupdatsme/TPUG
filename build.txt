@@ -1,0 +1,3 @@
+displayName = The Puppeteer's Game
+author = Polaris
+version = 0.1
